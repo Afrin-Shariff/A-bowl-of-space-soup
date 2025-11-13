@@ -1,8 +1,6 @@
-    <style>
         body {
             font-family: 'Segoe UI', sans-serif;
-            background: linear-gradient(to right,#3C0194, #023673, #460194);
-            color: #ffffff;
+            background-color: linear-gradient(to right,#3C0194, #023673, #460194);
             text-align: center;
             padding: 50px;
         }
@@ -28,7 +26,6 @@
             font-size: 16px;
             border: none;
             border-radius: 5px;
-            background-color: #ffffff;
             color: #1f1c2c;
             cursor: pointer;
             transition: background-color 0.3s ease;
@@ -37,4 +34,3 @@
         .box button:hover {
             background-color: #d1c4e9;
         }
-    </style>
