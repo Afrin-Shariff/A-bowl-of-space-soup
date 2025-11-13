@@ -1,6 +1,7 @@
         body {
-            font-family: 'Segoe UI', sans-serif;
-            background-color: linear-gradient(to right,#3C0194, #023673, #460194);
+            font-family: Copperplate;
+            background-color: black;
+            color: #ff01ee;
             text-align: center;
             padding: 50px;
         }
